@@ -1,69 +1,66 @@
-![Imagen del proyecto](https://github.com/eduardofierropro/Tinder/blob/main/assets/home1.png)
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# Copoycat: Tinder
+# CYBERSECURITY LOGS DOCUMENTATION
 
-Este es un repositorio donde he programado desde cero la Home de Tinder directamente en Twitch.
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
+<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-green" alt="Spanish Logs" /></a>
 
-[![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://tinder.com/es-ES)
-[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://eduardofierropro.github.io/Tinder/)
-[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=L6u094Hrzyo)
+### Objective
 
-## Tecnologías usadas
+The Cybersecurity Logs Documentation project aims to centralize and organize various security log records to enhance cybersecurity analysis and threat detection. By compiling logs from different sources, this repository provides a structured dataset for research, training, and real-world security assessments.
 
-![HTML](https://img.shields.io/static/v1?label=&message=Html&color=orange&logo=html5&logoColor=white&style=for-the-badge)
-![SASS](https://img.shields.io/static/v1?label=&message=SASS&color=CC6699&logo=sass&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=white&style=for-the-badge)
-![SUIT Methodology](https://img.shields.io/static/v1?label=&message=suitcss&color=lightblue&logo=suit&logoColor=white&style=for-the-badge)
+The primary goal is to facilitate better understanding of log-based security monitoring, helping cybersecurity professionals, researchers, and enthusiasts analyze patterns, identify anomalies, and improve incident response strategies. The documentation includes detailed explanations of log formats, key security events, and best practices for log management.
 
-> Aclaraciones:
->
-> No ha sido probado para tener soporte crossbrowsing
->
-> El diseño de la web original puede variar
->
-> Ha sido programado con fines de entretenimiento
->
-> No lo uses en tu propio portfolio sino como referencia o práctica
+This collection serves as a valuable resource for setting up Security Information and Event Management (SIEM) systems, forensic investigations, and automated threat detection mechanisms. It helps users simulate and study attack scenarios based on real-world log data, contributing to proactive cybersecurity defenses.
 
-## 🔴 Vídeos y repositorios de otras programaciones
+By consolidating these logs into a single repository, we aim to create a comprehensive knowledge base that supports learning, security tool development, and effective cyber threat mitigation.
 
-| Nombre | Youtube | Github | Github Pages |
-|--|--|--|--|
-|Playlist de todas las webs                         |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20playlist&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/playlist?list=PLJpymL0goBgETNW1I1rmuTUl-yoaRDUe5)|-|-|
-|Avatar 2022 *(Proceso)* |-|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Avatar-the-way-of-water/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Avatar-the-way-of-water/)|
-|The Game Awards 2022 *(Proceso)* |-|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/the-game-awards-2022/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/the-game-awards-2022/)|
-|Forbes para Jordi Wild, Nate Gentile y Oscar Dorta |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/RbrVM1acWx8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Forbes-con-Jordi-Wild--Nate-Gentile-y-Oscar-Dorta/)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://forbes-eduardofierropro.netlify.app/)|
-|God of war: Ragnarok                               |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=YV8PON9MVl8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/God-of-war-ragnarok)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/God-of-war-ragnarok/)|
-|The Crown of Wu                                    |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=zR3B_5uduec)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/The-Crown-Wu)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/The-Crown-Wu/)|
-|MadCool 2022                                       |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/mozRjGUSOm8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Madcool-2022)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Madcool-2022/)|
-|Tinder                                       |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/L6u094Hrzyo)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Tinder)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Tinder/)|
-|Google Stadia                                      |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/LtyWVeFE4uM)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Google-Stadia)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Google-Stadia/)|
-|DC Shoes USA                                       |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/nUu--X0mmlo)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/DC-Shoes-USA)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/DC-Shoes-USA/)|
-|Netflix                                            |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/WCUASu4V258)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Netflix-desde-cero)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Netflix-desde-cero)|
-|Portfolio de Timmy                                 |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/XAwXz2w3vlg)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Portfolio-desde-cero)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Portfolio-desde-cero/)|
-|Yodagram                                           |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/JWV2rgTnbFQ)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/Yodagram)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/Yodagram/)|
-|TwitterRap                                         |[![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=NhSlsFV86Z8)|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/TwitterRap)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/TwitterRap/)|
-|RockaCo                                            |-|[![github](https://img.shields.io/static/v1?label=&message=ver%20repo&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro/rockaco)|[![github](https://img.shields.io/static/v1?label=&message=ver%20pages&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://eduardofierropro.github.io/rockaco/)|
+### Skills Learned
 
+- Advanced understanding of SIEM concepts and practical application.
+- Proficiency in analyzing and interpreting network logs.
+- Ability to generate and recognize attack signatures and patterns.
+- Enhanced knowledge of network protocols and security vulnerabilities.
+- Development of critical thinking and problem-solving skills in cybersecurity.
 
+### Tools Used
 
-## 👨🏻‍🏫 Eduardo Fierro Pro
- 
-¡Qué pasa cruck! Soy profesor de programación tanto en escuelas como en Bootcamps y en mis tiempos libres programo por Twitch y en Youtube.
+- Security Information and Event Management (SIEM) systems (Google SecOps and Splunk) for log ingestion and analysis.
+- Network analysis tools (TCPDump, Wireshark) for capturing and examining network traffic.
+- Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
+- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
-[![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/eduardofierropro)
-[![tiktok](https://img.shields.io/static/v1?label=&message=tiktok&color=ff0050&logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@eduardofierro.pro?)
-[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/eduardofierro.pro)
-[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eduardofierropro)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/t4Txush)
-[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/edfierropro)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/eduardofierropro)
-[![colaboración](https://img.shields.io/static/v1?label=&message=MIS%20CURSOS&color=blue&logo=teach&logoColor=white&style=for-the-badge)](http://colaboracion.eduardofierro.pro)
+### Logs Categories:
 
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener">Access Control Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Audits" target="_blank" rel="noreferrer noopener">Audits Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/IOC%20Indicators" target="_blank" rel="noreferrer noopener">IOC Indicators Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Incidents" target="_blank" rel="noreferrer noopener">Incidents Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/PASTA" target="_blank" rel="noreferrer noopener">PASTA Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Phishing" target="_blank" rel="noreferrer noopener">Phishing Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Risk%20Register" target="_blank" rel="noreferrer noopener">Risk Register Logs</a>
+- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Vulnerability%20Assessment" target="_blank" rel="noreferrer noopener">Vulnerability Assessment Logs</a>
 
-## 📄 Licencia 
+---
 
-MIT Public License v3.0
-No puede usarse comercialmente
+<h3 align="left">Connect with me</h3>
 
+<p align="left">
+<a href="https://www.youtube.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=55200&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
+<a href="http://www.tiktok.com/@gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=118638&format=png" alt="@gabriellugooo" height="40" width="40" /></a>
+<a href="https://instagram.com/lugooogabriel" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=32309&format=png" alt="lugooogabriel" height="40" width="40" /></a>
+<a href="https://twitter.com/gabriellugo__" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png" alt="gabriellugo__" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/hernando-gabriel-lugo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=50&id=8808&format=png" alt="hernando-gabriel-lugo" height="40" width="40" /></a>
+<a href="https://github.com/GabrielLugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.icons8.com/?size=80&id=AngkmzgE6d3E&format=png" alt="gabriellugooo" height="34" width="34" /></a>
+<a href="mailto:lugohernandogabriel@gmail.com"> <img align="center" src="https://img.icons8.com/?size=50&id=38036&format=png" alt="lugohernandogabriel@gmail.com" height="40" width="40" /></a>
+<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://simpleicons.org/icons/linktree.svg" alt="gabriellugooo" height="40" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/README.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Version-000000" alt="English Version" /></a>
+<a href="https://github.com/GabrielLugooo/GabrielLugooo/blob/main/Readme%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Version-Green" alt="Spanish Version" /></a>
+</p>
+
+<a href="https://linktr.ee/gabriellugooo" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Credits-Gabriel%20Lugo-green" alt="Credits" /></a>
+<img align="center" src="https://komarev.com/ghpvc/?username=GabrielLugoo&label=Profile%20views&color=green&base=2000" alt="GabrielLugooo" />
+<a href="" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/License-MIT-green" alt="Last Edited" /></a>
